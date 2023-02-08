@@ -1,7 +1,7 @@
 # Whatcccat-Emotions-For-Argon
 
 ![screenshot](https://raw.githubusercontent.com/wzh4869/Whatcccat-Emotions-For-Argon/master/screenshot/875694388ef5880c2a2966da7eddd0a5.jpg)
-支持Argon主题评论的"什么猫"表情包拓展，原作微博:什么猫-张DuangDuang
+支持Argon主题评论的"什么猫"表情包拓展，原作微博:[什么猫-张DuangDuang](https://weibo.com/u/2083017707)
 
 图片均为更友好的webp格式，心情好的话日后也许可能大概会更新吧
 
