@@ -1,7 +1,7 @@
 <?php # -*- coding: utf-8 -*-
 /**
  * Plugin Name: Whatcccat Emotions For Argon
- * Plugin URI:  https://www.shimoko.com/index.php/2023/02/08/469/
+ * Plugin URI:  https://www.shimoko.com/p/whatcccat-for-argon/
  * Text Domain: argon-whatcccat-emotions
  * Domain Path: /languages
  * Description: 支持Argon主题评论的"什么猫"表情包拓展，原作微博:什么猫-张DuangDuang
